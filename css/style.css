@@ -130,3 +130,8 @@ main figure img:hover{
 
 }
 
+.footer{
+  display: flex;
+  justify-content: center;
+}
+
